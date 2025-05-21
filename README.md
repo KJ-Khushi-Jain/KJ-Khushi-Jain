@@ -22,7 +22,7 @@
 - 🌟 *Portfolio coming soon!*
 
 ---
-
+<!--
 ### 📊 WakaTime Coding Activity
 
 <p align="center">
@@ -30,6 +30,7 @@
 </p>
 
 ---
+!-->
 
 ### 📈 GitHub Stats
 
