@@ -14,18 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**NOTE: This project is complete and requires no additional development at this stage. If you find an issue or have ideas for new features, please open an issue. In the meantime I am trying to migrate it from Python, until that happens this is all the project has to offer.**
 
----
-
-<p align=center><img src="/waka.png"></p>
 <p align=center><a href="https://github.com/avinal/Profile-Readme-WakaTime/blob/master/LICENSE"><img src="https://img.shields.io/github/license/avinal/Profile-Readme-WakaTime" alt="License"></a> <a href="https://github.com/avinal/Profile-Readme-WakaTime/releases"><img src="https://img.shields.io/github/v/release/avinal/Profile-Readme-WakaTime" alt="Releases"></a> <a href="https://github.com/avinal/lark"><img src="https://img.shields.io/badge/uses-avinal%2Flark-blueviolet"></a> <img src="https://github.com/avinal/avinal/workflows/Build%20Graph/badge.svg" alt="Build"> <img src="https://wakatime.com/badge/github/avinal/Profile-Readme-WakaTime.svg" alt="Time Tracked"> <a href="https://github.com/avinal/Profile-Readme-WakaTime/discussions"><img src="https://img.shields.io/badge/QnA-Discussions-blueviolet"></a></p>
-
-If you use WakaTime to track your coding activity. You can add that to your README as a bar graph or embed in your blog/portfolio. Just add this action to any of your repository and there you have it. See mine below.
 
 ## My WakaTime Coding Activity
 
-<img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+<img src="https://github.com/KJ-Khushi-Jain/KJ-Khushi_Jain/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
 
 ## How to add one to your README.md
 
