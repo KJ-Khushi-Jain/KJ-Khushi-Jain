@@ -39,8 +39,9 @@
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=KJ-Khushi-Jain&theme=dark&hide_border=true" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KJ-Khushi-Jain&theme=transparent&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
 </p>
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KJ-Khushi-Jain&layout=compact&theme=transparent" alt="Top Languages" />
