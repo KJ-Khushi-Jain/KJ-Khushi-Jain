@@ -61,6 +61,6 @@
 
 ---
 
-⭐️ *Thanks for stopping by! Don't forget to leave a ⭐️ if you like my work!*
+⭐️ *Thanks for Reading My "Readme"!⭐️*
 
 
