@@ -37,11 +37,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KJ-Khushi-Jain&show_icons=true&theme=transparent" alt="Khushi's GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com/?user=KJ-Khushi-Jain&theme=transparent&ring=yellow&fire=orange&currStreakLabel=yellow" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KJ-Khushi-Jain&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
