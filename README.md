@@ -39,7 +39,7 @@
 </p>
 
 <p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=KJ-Khushi-Jain&theme=transparent&hide_border=true&short_numbers=true" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=KJ-Khushi-Jain&theme=dark&hide_border=true" alt="KJ-Khushi-Jain's GitHub Stats" />
 </p>
 
 
