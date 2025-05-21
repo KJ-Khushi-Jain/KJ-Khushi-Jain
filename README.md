@@ -2,7 +2,7 @@
 <h1>👋 Hi there, I'm Khushi Jain!</h1>
 <h3>Happy to see a visitor on my GitHub! 🚀</h3>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=KJ-Khushi-Jain" alt="Visitor Count" />
 </p>
 
@@ -25,7 +25,7 @@
 
 ## Tech Stack
 
-<div >
+<div align="center">
 	<table>
 		<tr>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png" alt="PyCharm" title="PyCharm"/></code></td>
