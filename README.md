@@ -49,7 +49,7 @@
 
 ### 🛠️ Badges & Tools
 
-<p align="center">
+<p>
   <a href="https://github.com/avinal/Profile-Readme-WakaTime/blob/master/LICENSE"><img src="https://img.shields.io/github/license/avinal/Profile-Readme-WakaTime" alt="License"></a>
   <a href="https://github.com/avinal/Profile-Readme-WakaTime/releases"><img src="https://img.shields.io/github/v/release/avinal/Profile-Readme-WakaTime" alt="Releases"></a>
   <a href="https://github.com/avinal/lark"><img src="https://img.shields.io/badge/uses-avinal%2Flark-blueviolet"></a>
