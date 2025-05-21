@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 [![Khushi Jain's GitHub stats:](https://github-readme-stats.vercel.app/api?username=KJ-Khushi-Jain&show_icons=true&theme=transparent)](https://github.com/KJ-Khushi-Jain)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KJ-Khushi-Jain&theme=transparent)](https://github.com/KJ-Khushi-Jain)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KJ-Khushi-Jain&theme=transparent&color="yellow")](https://github.com/KJ-Khushi-Jain)
