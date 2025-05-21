@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## My WakaTime Coding Activity
 
-<img src="https://github.com/KJ-Khushi-Jain/KJ-Khushi_Jain/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+<img src="https://github.com/KJ-Khushi-Jain/KJ-Khushi_Jain/blob/main/images/stat.svg" alt="Khushi's WakaTime Activity"/>
 
 ## How to add one to your README.md
 
