@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/KJ-Khushi-Jain/KJ-Khushi_Jain/blob/main/images/stat.svg" alt="Khushi's WakaTime Activity"/>
 
-[![Khushi Jain's GitHub stats:](https://github-readme-stats.vercel.app/api?username=KJ-Khushi-Jain)](https://github.com/anuraghazra/github-readme-stats)
+[![Khushi Jain's GitHub stats:](https://github-readme-stats.vercel.app/api?username=KJ-Khushi-Jain)](https://github.com/KJ-Khushi-Jain)
