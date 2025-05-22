@@ -105,6 +105,11 @@
 
 ## GitHub Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KJ-Khushi-Jain&theme=gruvbox&row=2&column=3&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</div>
+
+
 <img src="https://github-profile-trophy.vercel.app/?username=KJ-Khushi-Jain" alt="trophy" />
 
 ---
@@ -133,6 +138,7 @@
 
 
 ## My Projects
+
 <div align="center">
 
   <h3>🚀 My Projects</h3>
@@ -159,8 +165,6 @@
           </p>
         </details>
       </td>
-    </tr>
-    <tr>
       <td>
         <details>
           <summary><b>📁 Project 3</b></summary>
@@ -171,6 +175,8 @@
           </p>
         </details>
       </td>
+    </tr>
+    <tr>
       <td>
         <details>
           <summary><b>📁 Project 4</b></summary>
@@ -181,8 +187,6 @@
           </p>
         </details>
       </td>
-    </tr>
-    <tr>
       <td>
         <details>
           <summary><b>📁 Project 5</b></summary>
@@ -206,6 +210,7 @@
     </tr>
   </table>
 </div>
+
 
 --- 
 ⭐️ *Thanks for Reading My "Readme"!⭐️*
