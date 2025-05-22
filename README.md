@@ -1,4 +1,12 @@
 
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=KJ-Khushi-Jain" alt="trophy" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KJ-Khushi-Jain&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KJ-Khushi-Jain&repo=KJ-Khushi-Jain)](https://github.com/KJ-Khushi-Jain/KJ-Khushi-Jain)
 
 
