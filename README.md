@@ -131,6 +131,83 @@
 </p>
 -->
 
+
+## My Projects
+<div align="center">
+
+  <h3>🚀 My Projects</h3>
+
+  <table>
+    <tr>
+      <td>
+        <details>
+          <summary><b>📁 Project 1</b></summary>
+          <p>📝 Description of Project 1.</p>
+          <p>
+            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jupyter_notebook.png" title="Jupyter Notebook" />
+            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" title="Python" />
+          </p>
+        </details>
+      </td>
+      <td>
+        <details>
+          <summary><b>📁 Project 2</b></summary>
+          <p>📝 Description of Project 2.</p>
+          <p>
+            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pycharm.png" title="PyCharm" />
+            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" title="Postman" />
+          </p>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <details>
+          <summary><b>📁 Project 3</b></summary>
+          <p>📝 Description of Project 3.</p>
+          <p>
+            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/spyder.png" title="Spyder" />
+            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" title="Python" />
+          </p>
+        </details>
+      </td>
+      <td>
+        <details>
+          <summary><b>📁 Project 4</b></summary>
+          <p>📝 Description of Project 4.</p>
+          <p>
+            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" title="Postman" />
+            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jupyter_notebook.png" title="Jupyter Notebook" />
+          </p>
+        </details>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <details>
+          <summary><b>📁 Project 5</b></summary>
+          <p>📝 Description of Project 5.</p>
+          <p>
+            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pycharm.png" title="PyCharm" />
+            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" title="Python" />
+          </p>
+        </details>
+      </td>
+      <td>
+        <details>
+          <summary><b>📁 Project 6</b></summary>
+          <p>📝 Description of Project 6.</p>
+          <p>
+            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/spyder.png" title="Spyder" />
+            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" title="Postman" />
+          </p>
+        </details>
+      </td>
+    </tr>
+  </table>
+</div>
+
+--- 
 ⭐️ *Thanks for Reading My "Readme"!⭐️*
 
 
