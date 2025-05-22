@@ -6,7 +6,7 @@
 <h3>Happy to see a visitor on my GitHub! 🚀</h3>
 
 <p>
-  <img src="https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=KJ-Khushi-Jain" alt="Visitor Count" />
+![Visitor Count](https://profile-counter.glitch.me/KJ-Khushi-Jain/count.svg)
 </p>
 
 ---
