@@ -106,11 +106,8 @@
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KJ-Khushi-Jain&theme=gruvbox&row=2&column=3&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KJ-Khushi-Jain&theme=gruvbox&row=3&column=3&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
-
-
-<img src="https://github-profile-trophy.vercel.app/?username=KJ-Khushi-Jain" alt="trophy" />
 
 ---
 
