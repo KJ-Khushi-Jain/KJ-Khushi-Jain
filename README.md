@@ -8,7 +8,7 @@
 - Move according to our hand actions
 !-->
 
-curl https://profile-counter.glitch.me/{YOUR USER}/count.svg
+curl https://profile-counter.glitch.me/KJ-Khushi-Jain/count.svg
 
 
 [View Project](https://github.com/KJ-Khushi-Jain/EazyMove)
