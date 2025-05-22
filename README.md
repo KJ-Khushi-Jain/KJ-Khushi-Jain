@@ -115,8 +115,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KJ-Khushi-Jain&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KJ-Khushi-Jain&repo=KJ-Khushi-Jain)](https://github.com/KJ-Khushi-Jain/KJ-Khushi-Jain)
-
 ---
 
 <!--
@@ -140,67 +138,67 @@
 
   <h3>🚀 My Projects</h3>
 
-  <table>
+  <table style="border-collapse: separate; border-spacing: 12px; border-radius: 12px; background-color: #f9f9f9; padding: 10px;">
     <tr>
-      <td>
+      <td style="border: 1px solid #ccc; border-radius: 12px; padding: 10px;">
         <details>
           <summary><b>📁 Project 1</b></summary>
           <p>📝 Description of Project 1.</p>
           <p>
-            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jupyter_notebook.png" title="Jupyter Notebook" />
-            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" title="Python" />
+            <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jupyter_notebook.png" title="Jupyter Notebook" />
+            <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" title="Python" />
           </p>
         </details>
       </td>
-      <td>
+      <td style="border: 1px solid #ccc; border-radius: 12px; padding: 10px;">
         <details>
           <summary><b>📁 Project 2</b></summary>
           <p>📝 Description of Project 2.</p>
           <p>
-            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pycharm.png" title="PyCharm" />
-            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" title="Postman" />
+            <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pycharm.png" title="PyCharm" />
+            <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" title="Postman" />
           </p>
         </details>
       </td>
-      <td>
+      <td style="border: 1px solid #ccc; border-radius: 12px; padding: 10px;">
         <details>
           <summary><b>📁 Project 3</b></summary>
           <p>📝 Description of Project 3.</p>
           <p>
-            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/spyder.png" title="Spyder" />
-            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" title="Python" />
+            <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/spyder.png" title="Spyder" />
+            <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" title="Python" />
           </p>
         </details>
       </td>
     </tr>
     <tr>
-      <td>
+      <td style="border: 1px solid #ccc; border-radius: 12px; padding: 10px;">
         <details>
           <summary><b>📁 Project 4</b></summary>
           <p>📝 Description of Project 4.</p>
           <p>
-            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" title="Postman" />
-            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jupyter_notebook.png" title="Jupyter Notebook" />
+            <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" title="Postman" />
+            <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jupyter_notebook.png" title="Jupyter Notebook" />
           </p>
         </details>
       </td>
-      <td>
+      <td style="border: 1px solid #ccc; border-radius: 12px; padding: 10px;">
         <details>
           <summary><b>📁 Project 5</b></summary>
           <p>📝 Description of Project 5.</p>
           <p>
-            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pycharm.png" title="PyCharm" />
-            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" title="Python" />
+            <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pycharm.png" title="PyCharm" />
+            <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" title="Python" />
           </p>
         </details>
       </td>
-      <td>
+      <td style="border: 1px solid #ccc; border-radius: 12px; padding: 10px;">
         <details>
           <summary><b>📁 Project 6</b></summary>
           <p>📝 Description of Project 6.</p>
           <p>
-            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/spyder.png" title="Spyder" />
-            <img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" title="Postman" />
+            <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/spyder.png" title="Spyder" />
+            <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" title="Postman" />
           </p>
         </details>
       </td>
