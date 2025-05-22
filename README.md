@@ -96,7 +96,7 @@
 </p>
 
 <p align="left">
-<img src="https://streak-stats.demolab.com?user=KJ-Khushi-Jain&theme=dark&hide_border=true" alt="KJ-Khushi-Jain's GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=KJ-Khushi-Jain&&theme=transparent&hide_border=false" alt="KJ-Khushi-Jain's GitHub Stats" />
 </p>
 
 
