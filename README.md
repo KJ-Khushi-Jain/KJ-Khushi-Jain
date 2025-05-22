@@ -1,32 +1,7 @@
 
 
 curl https://profile-counter.glitch.me/KJ-Khushi-Jain/count.svg
-
-<!-- GitHub README Button to Show Info Box -->
-<div align="center">
-  <button onclick="document.getElementById('myInfoBox').style.display='block'" style="padding:10px 20px;font-size:16px;border:none;background:#2ea44f;color:white;border-radius:5px;cursor:pointer;">
-    Show My Info
-  </button>
-
-  <div id="myInfoBox" style="display:none;margin-top:20px;padding:15px;border:1px solid #ccc;border-radius:10px;max-width:500px;background:#f9f9f9;">
-    <h3>👋 About Me</h3>
-    <p>I'm a passionate developer focused on building scalable systems and solving real-world problems with code.</p>
-    
-    <h4>🛠️ Skills</h4>
-    <ul>
-      <li>Languages: Python, JavaScript, C++</li>
-      <li>Frameworks: React, Node.js, Flask</li>
-      <li>Tools: Git, Docker, MongoDB</li>
-    </ul>
-
-    <h4>🌱 Currently Learning</h4>
-    <p>AI/ML, Distributed Systems, Cloud Architecture</p>
-
-    <h4>📫 Contact</h4>
-    <p>Email: youremail@example.com</p>
-  </div>
-</div>
-
+![Visitor Count](https://profile-counter.glitch.me/KJ-Khushi-Jain/count.svg)
 
 ## GitHub Trophies
 
