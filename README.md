@@ -6,7 +6,7 @@
 <h3>Happy to see a visitor on my GitHub! 🚀</h3>
 
 <p>
-![](https://komarev.com/ghpvc/?username=KJ-Khushi-Jain&label=PROFILE+VIEWS&style=plastic)
+![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=KJ-Khushi-Jain)
 </p>
 
 ---
