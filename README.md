@@ -1,25 +1,8 @@
 
-
-curl https://profile-counter.glitch.me/KJ-Khushi-Jain/count.svg
-![Visitor Count](https://profile-counter.glitch.me/KJ-Khushi-Jain/count.svg)
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=KJ-Khushi-Jain" alt="trophy" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KJ-Khushi-Jain&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KJ-Khushi-Jain&repo=KJ-Khushi-Jain)](https://github.com/KJ-Khushi-Jain/KJ-Khushi-Jain)
-
-
 <h1>👋 Hi there, I'm Khushi Jain!</h1>
 <h3>Happy to see a visitor on my GitHub! 🚀</h3>
 
-<p>
-![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=KJ-Khushi-Jain)
-</p>
+![Visitor Count](https://profile-counter.glitch.me/KJ-Khushi-Jain/count.svg)
 
 ---
 
@@ -116,7 +99,24 @@ curl https://profile-counter.glitch.me/KJ-Khushi-Jain/count.svg
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KJ-Khushi-Jain&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
 
+
 ---
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=KJ-Khushi-Jain" alt="trophy" />
+
+---
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KJ-Khushi-Jain&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KJ-Khushi-Jain&repo=KJ-Khushi-Jain)](https://github.com/KJ-Khushi-Jain/KJ-Khushi-Jain)
+
+---
+
+<!--
 
 ### 🛠️ Badges & Tools
 
@@ -128,8 +128,7 @@ curl https://profile-counter.glitch.me/KJ-Khushi-Jain/count.svg
   <img src="https://wakatime.com/badge/github/avinal/Profile-Readme-WakaTime.svg" alt="Time Tracked">
   <a href="https://github.com/avinal/Profile-Readme-WakaTime/discussions"><img src="https://img.shields.io/badge/QnA-Discussions-blueviolet"></a>
 </p>
-
----
+-->
 
 ⭐️ *Thanks for Reading My "Readme"!⭐️*
 
