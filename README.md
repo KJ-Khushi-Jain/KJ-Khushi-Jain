@@ -135,12 +135,9 @@
 ## My Projects
 
 <div align="center">
-
-  <h3>🚀 My Projects</h3>
-
   <table style="border-collapse: separate; border-spacing: 12px; border-radius: 12px; background-color: #f9f9f9; padding: 10px;">
     <tr>
-      <td style="border: 1px solid #ccc; border-radius: 12px; padding: 10px;">
+      <td style="border: 5px solid #ccc; border-radius: 12px; padding: 20px;">
         <details>
           <summary><b>📁 Project 1</b></summary>
           <p>📝 Description of Project 1.</p>
@@ -208,6 +205,7 @@
 
 
 --- 
+
 ⭐️ *Thanks for Reading My "Readme"!⭐️*
 
 
