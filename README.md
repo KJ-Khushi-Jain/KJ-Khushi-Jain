@@ -6,7 +6,7 @@
 <h3>Happy to see a visitor on my GitHub! 🚀</h3>
 
 <p>
-![Visitor Count](https://profile-counter.glitch.me/KJ-Khushi-Jain/count.svg)
+![](https://komarev.com/ghpvc/?username=KJ-Khushi-Jain&label=PROFILE+VIEWS&style=plastic)
 </p>
 
 ---
