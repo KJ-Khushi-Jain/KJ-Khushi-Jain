@@ -1,3 +1,4 @@
+<!--
 ## Projects
 
 ### EazyMove
@@ -5,6 +6,10 @@
 - OpenCV, MediaPipe
 - A cursor without mouse
 - Move according to our hand actions
+!-->
+
+curl https://profile-counter.glitch.me/{YOUR USER}/count.svg
+
 
 [View Project](https://github.com/KJ-Khushi-Jain/EazyMove)
 
