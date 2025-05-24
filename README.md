@@ -18,7 +18,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/khushi-jain-93354831b/)
 - 💻 [GitHub](https://github.com/KJ-Khushi-Jain)
-- 🌟 *Portfolio coming soon!*
+- 🌟 [Portfolio](https://portfolio-kj-64p9.vercel.app/)
 
 ---
 
@@ -139,8 +139,8 @@
     <tr>
       <td style="border: 5px solid #ccc; border-radius: 12px; padding: 20px;">
         <details>
-          <summary><b>📁 Project 1</b></summary>
-          <p>📝 Description of Project 1.</p>
+          <summary><b>📁 Sustainable Cloud - Energy Aware Dynamic Resourse Management</b></summary>
+          <p>📝 Helps in prior prediction of server temperature so that scheduling can be done to reduce the workload of the server..</p>
           <p>
             <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jupyter_notebook.png" title="Jupyter Notebook" />
             <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" title="Python" />
@@ -149,8 +149,8 @@
       </td>
       <td style="border: 1px solid #ccc; border-radius: 12px; padding: 10px;">
         <details>
-          <summary><b>📁 Project 2</b></summary>
-          <p>📝 Description of Project 2.</p>
+          <summary><b>📁 RxEase </b></summary>
+          <p>📝 Developing an AI model to recognize and interpret doctors' handwriting using Image Processing.Implementing neural network techniques for accurate text prediction. </p>
           <p>
             <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pycharm.png" title="PyCharm" />
             <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" title="Postman" />
@@ -159,8 +159,8 @@
       </td>
       <td style="border: 1px solid #ccc; border-radius: 12px; padding: 10px;">
         <details>
-          <summary><b>📁 Project 3</b></summary>
-          <p>📝 Description of Project 3.</p>
+          <summary><b>📁 Bypass Broker </b></summary>
+          <p>📝 Developed a property listing platform that displays available hostel/PG/homestays based on user input,such as location, check-in/check-out dates, and occupancy type (student/parent). Integrated multiple payment gateways, automated bill notifications, and applied restriction filters to refine search results.</p>
           <p>
             <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/spyder.png" title="Spyder" />
             <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" title="Python" />
@@ -171,8 +171,8 @@
     <tr>
       <td style="border: 1px solid #ccc; border-radius: 12px; padding: 10px;">
         <details>
-          <summary><b>📁 Project 4</b></summary>
-          <p>📝 Description of Project 4.</p>
+          <summary><b>📁 EazyMove </b></summary>
+          <p>📝Engineered a gesture-based system to control the cursor dynamically without a mouse.Smooth pointer movement, seamless selection via hand contractions, and three-finger swipe gestures for quick tab navigation.</p>
           <p>
             <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" title="Postman" />
             <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jupyter_notebook.png" title="Jupyter Notebook" />
@@ -181,8 +181,8 @@
       </td>
       <td style="border: 1px solid #ccc; border-radius: 12px; padding: 10px;">
         <details>
-          <summary><b>📁 Project 5</b></summary>
-          <p>📝 Description of Project 5.</p>
+          <summary><b>📁 Club Management </b></summary>
+          <p>📝 Developed a web-based portal to manage the operations of IIIT Kottayam’s cultural clubs, including Wildbeats and other clubs </p>
           <p>
             <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/pycharm.png" title="PyCharm" />
             <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" title="Python" />
@@ -191,8 +191,8 @@
       </td>
       <td style="border: 1px solid #ccc; border-radius: 12px; padding: 10px;">
         <details>
-          <summary><b>📁 Project 6</b></summary>
-          <p>📝 Description of Project 6.</p>
+          <summary><b>📁 Parallel and Distributed Computing </b></summary>
+          <p>📝 Designed Parallel and Distributed Algorithms for Hash Join and Dijkstra's Algorithm reducing their time complexities.Also, these solutions where included as the part of our curriculum as a Manual.</p>
           <p>
             <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/spyder.png" title="Spyder" />
             <img width="24" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postman.png" title="Postman" />
